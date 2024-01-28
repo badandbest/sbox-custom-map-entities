@@ -1,0 +1,32 @@
+{
+  "Title": "Custom Map Entities",
+  "Type": "library",
+  "Org": "badandbest",
+  "Ident": "map_entities",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "/Examples/",
+  "Resources": null,
+  "MenuResources": "*",
+  "HasCode": true,
+  "CodePath": "",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "CsProjName": "Custom Map Entities",
+    "Compiler": {
+      "RootNamespace": "Sandbox",
+      "DefineConstants": "SANDBOX;ADDON;DEBUG",
+      "NoWarn": "1701;1702;1591;",
+      "WarningsAsErrors": "",
+      "AssemblyReferences": [],
+      "IgnoreFolders": [
+        "editor",
+        "unittest"
+      ],
+      "DistinctAssemblyReferences": []
+    }
+  }
+}
